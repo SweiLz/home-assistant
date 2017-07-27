@@ -116,7 +116,11 @@ $ sudo apt-get autoclean
 1. Update pip `sudo pip3 install -U pip setuptools`
 2. Install VirtualENV `sudo pip3 install virtualenv`
 3. Install packages
-    * `sudo apt-get install -y portaudio19-dev`
+
+    ```
+    sudo apt-get install -y portaudio19-dev
+    ```
+
 ## Get-Started
 
 1. Navigate to Documents directory. `cd Documents/`
